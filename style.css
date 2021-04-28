@@ -84,6 +84,8 @@ a:hover {
   padding: 40px;
   margin: 24px;
   background-color: rgb(206, 206, 206);
+
+  background-size: cover;
 }
 
 .container {
